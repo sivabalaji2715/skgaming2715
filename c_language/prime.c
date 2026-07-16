@@ -13,3 +13,4 @@ return0;
 }
 print("is a prime");
 }
+ 
