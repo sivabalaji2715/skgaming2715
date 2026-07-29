@@ -2,7 +2,7 @@
 
 int main() {
     float x = 10.5;
-    int y = (int)x;   // Explicit type casting
+    int y = (int)x;   
 
     printf("%d\n", y);
 
