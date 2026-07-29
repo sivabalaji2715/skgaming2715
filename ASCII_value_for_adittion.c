@@ -10,7 +10,7 @@ int main() {
     printf("Enter second character: ");
     scanf(" %c", &ch2);
 
-    sum = ch1 + ch2;   // Adds ASCII values of the characters
+    sum = ch1 + ch2;   
 
     printf("ASCII value of '%c' = %d\n", ch1, ch1);
     printf("ASCII value of '%c' = %d\n", ch2, ch2);
