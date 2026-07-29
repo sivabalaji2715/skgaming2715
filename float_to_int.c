@@ -9,7 +9,7 @@ int main()
     printf("Enter a float value: ");
     scanf("%f", &num);
 
-    result = (int)num;   // Type casting from float to int
+    result = (int)num;   
 
     printf("Float value = %.2f\n", num);
     printf("Integer value = %d\n", result);
