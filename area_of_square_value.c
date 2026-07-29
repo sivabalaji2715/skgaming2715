@@ -13,6 +13,3 @@ int main() {
 
     return 0;
 }
-Sample Output
-Enter the radius of the circle: 5
-Area of the circle = 78.54
