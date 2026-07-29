@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// Global variable
+
 int num = 10;
 
-// Function to modify the global variable
+
 void modify() {
     num = 50;
 }
