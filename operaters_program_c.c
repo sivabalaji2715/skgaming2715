@@ -32,9 +32,3 @@ int main() {
 
     return 0;
 }
-
-
-Logical Operators:
-(a > 0 && b > 0) : 1
-(a > 0 || b > 0) : 1
-!(a > b)         : 0
