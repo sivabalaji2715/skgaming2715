@@ -13,9 +13,4 @@ int main() {
 
     return 0;
 }
-Sample Output 1
-Enter a number: 8
-8 is Even
-Sample Output 2
-Enter a number: 15
-15 is Odd
+
