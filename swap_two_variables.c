@@ -10,7 +10,7 @@ int main() {
     printf("a = %d\n", a);
     printf("b = %d\n", b);
 
-    // Swapping using a temporary variable
+    
     temp = a;
     a = b;
     b = temp;
